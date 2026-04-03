@@ -178,14 +178,12 @@ This dashboard provides:
 * Actionable insights to improve delivery and customer experience
 
 ---
-📸 Overall Report: https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20dashboard..pdf
+📸 Overall Report: https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Ecommerce_Sales_Delivery_Dashboard.pbix
 
-Main Page https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%201.png
+Revenue Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Delivery%20%26%20Reviews.png
 
-Dashboard 2:(Overall Ratings) https://github.com/rahulworkedit-cell/Airbnb-Performance-/blob/main/Airbnb%20Dashboard%202.png
+Delivery & Review Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Revenue%20Report.png
 
-Dashboard 2:(Detailled Ratings) https://github.com/rahulyadavv9/Airbnb-Performance-/blob/main/Airbnb%20ratings%20detailed.png
----
 
  📌 Conclusion
 
