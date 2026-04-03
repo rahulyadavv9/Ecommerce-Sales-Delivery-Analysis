@@ -1,5 +1,16 @@
 📊 E-Commerce Sales & Delivery Performance Analysis
 
+📊 Dashboard Preview
+Overall Report: https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Ecommerce_Sales_Delivery_Dashboard.pbix
+
+Revenue Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Delivery%20%26%20Reviews.png
+
+Delivery & Review Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Revenue%20Report.png
+
+🏗 Project Architecture
+
+Raw Data → SQL Cleaning → Data Modeling → DAX Measures → Power BI Dashboard → Business Insights
+
 🧠 Business Problem 
 
 An e-commerce company was experiencing steady growth in orders and revenue, but leadership noticed a worrying pattern — **customer satisfaction was inconsistent, delivery delays were frequent, and a significant number of orders were being cancelled or marked unavailable**.
@@ -178,12 +189,6 @@ This dashboard provides:
 * Actionable insights to improve delivery and customer experience
 
 ---
-📸 Overall Report: https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Ecommerce_Sales_Delivery_Dashboard.pbix
-
-Revenue Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Delivery%20%26%20Reviews.png
-
-Delivery & Review Report : https://github.com/rahulyadavv9/Ecommerce-Sales-Delivery-Analysis/blob/main/Snapshot%20of%20Revenue%20Report.png
-
 
  📌 Conclusion
 
